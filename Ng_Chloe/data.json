@@ -1,0 +1,4856 @@
+{
+  "name": "The World",
+  "children": [
+    { 
+      "name": "United States","value": "Stack Overflow",
+      "children": [
+        { "name": "White or of European descent" ,"value": "Stack Overflow", 
+        "children":
+        [
+          {"name": "Male", "value": 5734},
+          {"name": "Female", "value": 594},
+          {"name": "Gender non-conforming", "value": 36},
+          {"name": "Other", "value": 16},
+          {"name": "Female; Transgender", "value": 28 },
+          {"name": "Transgender; Gender non-conforming", "value": 4},
+          {"name": "Male; Gender non-conforming", "value": 15 },
+          {"name": "Male; Other", "value": 26 },
+          {"name": "Transgender", "value": 9 },
+          {"name": "Male; Transgender", "value": 5 },
+          {"name": "Female; Gender non-conforming", "value": 12 },
+          {"name": "Female; Transgender; Gender non-conforming", "value": 2},
+          {"name": "Gender non-conforming; Other", "value": 1},
+          {"name": "Male; Gender non-conforming; Other", "value": 1}
+        ]
+        },
+        { "name" : "South Asian","value": "Stack Overflow",
+          "children":
+          [
+              {"name": "Male", "value": 251},
+              {"name": "Female", "value": 35},
+              {"name": "Gender non-conforming", "value": 1},
+              {"name": "Male; Other", "value": 1 }
+          ]
+        },
+        { "name" : "Black or of African descent; East Asian; White or of European descent",
+          "children":
+          [
+              {"name": "Male", "value": 1}
+          ]
+        },
+        {
+          "name" : "Middle Eastern","value": "Stack Overflow",
+          "children":
+          [
+              {"name": "Male", "value": 43},
+              {"name": "Female", "value": 5},
+              {"name": "Female; Other", "value": 1}
+          ]
+        },
+        {
+          "name" : "East Asian; White or of European descent","value": "Stack Overflow",
+          "children":
+          [
+              {"name": "Male", "value": 63},
+              {"name": "Female", "value": 11},
+              {"name": "Female; Transgender; Gender non-conforming", "value": 2},
+              {"name": "Gender non-confirming", "value": 1},
+              {"name": "Female; Transgender", "value":1},
+              {"name": "Male; Other", "value": 2}          
+          ]
+        },
+        {
+          "name" : "East Asian; South Asian","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 11 },
+            {"name": "Female", "value": 2 }
+          ]
+        },
+        {
+          "name" : "East Asian;","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 230 },
+            {"name": "Female", "value": 54 },
+            {"name": "Female; Gender non-conforming", "value": 1}, 
+            {"name": "Gender non-conforming", "value": 4},
+            {"name": "Transgender", "value": 1},
+            {"name": "Male; Other", "value": 1} 
+
+          ]
+        },
+        {
+          "name" : "Middle Eastern; White or of European descent","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 27 },
+            {"name": "Female", "value": 2 },
+            {"name": "Gender non-conforming", "value": 1} 
+
+
+          ]
+        },
+        {
+          "name" : "Hispanic or Latino/Latina","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 186 },
+            {"name": "Female", "value": 18 },
+            {"name": "Other", "value": 3 },
+            {"name": "Male; Other", "value": 1 },
+            {"name": "Gender non-conforming", "value": 1}
+
+          ]
+        },
+        {
+          "name" : "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 121 },
+            {"name": "Female", "value": 31 },
+            {"name": "Female; Transgender", "value": 1 },
+            {"name": "Male; Other", "value": 2 },
+            {"name": "Transgender", "value": 1}
+
+          ]
+        },
+        {
+          "name" : "Black or of African descent; Native American, Pacific Islander, or Indigenous Australian; White or of European descent","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 4 },
+            {"name": "Female", "value": 2 }
+          ]
+        },
+        {
+          "name" : "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 34 },
+            {"name": "Female", "value": 2 },
+            {"name": "Female; Transgender; Gender non-conforming", "value": 1 }
+          ]
+        },
+        {
+          "name" : "South Asian; White or of European descent","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 16 },
+            {"name": "Female", "value": 4 }
+          ]
+        },
+        {
+          "name" : "Black or of African descent; Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 3 }
+          ]
+        },
+        {
+          "name" : "Black or of African descent","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 123 },
+            {"name": "Female", "value": 26 },
+            {"name": "Transgender", "value": 1 },
+            {"name": "Gender non-conforming", "value": 1 },
+            {"name": "Male; Transgender; Gender non-conforming", "value": 1}
+          ]
+        },
+        {
+          "name" : "Hispanic or Latino/Latina; Native American, Pacific Islander, or Indigenous Australian; White or of European descent","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 6 },
+            {"name": "Female", "value": 1 },
+            {"name": "Male; Other", "value": 1 }
+          ]
+        },
+        {
+          "name" : "Black or of African descent; South Asian","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 3 }
+          ]
+        },
+        {
+          "name" : "East Asian; Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 6 },
+            {"name": "Female", "value": 1 }
+          ]
+        },
+        {
+          "name" : "Black or of African descent; White or of European descent","value": "Stack Overflow",
+          "children":
+          [
+            {"name": "Male", "value": 17 },
+            {"name": "Female", "value": 5 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2610},
+          {"name": "Female", "value": 178},
+          {"name": "Gender non-conforming", "value": 12},
+          {"name": "Other", "value": 9},
+          {"name": "Female; Transgender", "value": 10 },
+          {"name": "Transgender; Gender non-conforming", "value": 2},
+          {"name": "Male; Other", "value": 12 },
+          {"name": "Transgender", "value": 9 },
+          {"name": "Female; Gender non-conforming", "value": 3 }
+        ]
+      },
+      {
+        "name": "Black or of African descent; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 62},
+          {"name": "Other", "value": 1},
+          {"name": "Female", "value": 5},
+          {"name": "Gender non-conforming", "value": 1},
+          {"name": "Male; Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 35},
+          {"name": "Female", "value": 7}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 11},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 14},
+          {"name": "Female", "value": 3}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Transgender; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "East Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1},
+          {"name": "Female; Transgender; Gender non-conforming", "value": 1}
+        ]
+      },      
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 26},
+          {"name": "Female", "value": 7},
+          {"name": "Gender non-conforming", "value": 1},
+          {"name": "Other", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4},
+          {"name": "Female", "value": 1}
+        ]
+      }
+      ]
+    },
+      {
+      "name": "Poland","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 735},
+          {"name": "Female", "value": 87},
+          {"name": "Other", "value": 10},
+          {"name": "Gender non-conforming", "value": 6},
+          {"name": "Male; Other", "value": 3},
+          {"name": "Transgender; Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 22},
+          {"name": "Female", "value": 6},
+          {"name": "Other", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Colombia","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 74},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "Black or of African descent; Hispanic or Latino/Latina; Middle Eastern", "value": "Stack Overflow",       
+      "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "Black or of African descent; Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "France","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 899},
+          {"name": "Female", "value": 47},
+          {"name": "Gender non-conforming", "value": 3},
+          {"name": "Other", "value": 4},
+          {"name": "Female; Transgender", "value": 3 },
+          {"name": "Transgender; Gender non-conforming", "value": 1},
+          {"name": "Male; Gender non-conforming", "value": 1}
+        ]
+      },
+      { "name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "East Asian; Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7},
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 20},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 20},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 12},
+          {"name": "Female", "value": 1},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "East Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 2},
+          {"name": "Female", "value": 7}
+        ]
+      }
+
+      ]
+    },
+        {
+      "name": "Germany","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2370},
+          {"name": "Female", "value": 133},
+          {"name": "Gender non-conforming", "value": 14},
+          {"name": "Male; Other", "value": 11},
+          {"name": "Female; Transgender", "value": 1 },
+          {"name": "Female; Gender non-conforming", "value": 3},
+          {"name": "Transgender", "value": 5},
+          {"name": "Other", "value": 13},
+          {"name": "Male; Gender non-conforming", "value": 1}
+        ]
+      },
+      { "name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 22},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 14},
+          {"name": "Female", "value": 1}, 
+          {"name": "Male; Gender non-conforming", "value": 1}         
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 11},
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 54},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 29},
+          {"name": "Female", "value": 2},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 8},
+          {"name": "Female", "value": 1}
+        ]
+      },
+
+      {"name": "East Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 10},
+          {"name": "Female", "value": 1}
+        ]
+      }
+
+      ]
+    },
+
+    {
+      "name": "Israel","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 115},
+          {"name": "Female", "value": 16}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 102},
+          {"name": "Female", "value": 9},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 62},
+          {"name": "Female", "value": 5},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Male; Other", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name":  "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1},
+          {"name": "Transgender; Gender non-conforming", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Italy","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 469},
+          {"name": "Other", "value": 2},
+          {"name": "Female; Gender non-conforming", "value": 1},
+          {"name": "Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 16}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name":  "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Brazil","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 166},
+          {"name": "Other", "value": 1},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 45},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 3}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latino","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 156},
+          {"name": "Female", "value": 9}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 17},
+          {"name": "Female", "value": 1}          
+        ]
+      },
+      {"name": "East Asian; Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name":  "Black or of African descent; Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 9},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name":  "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name":  "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Male; Other", "value": 1}
+        ]
+      }
+      ]
+    },
+        {
+      "name": "Croatia","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 105},
+          {"name": "Other", "value": 1},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Argentina","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 46},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 68},
+          {"name": "Female", "value": 5}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 29},
+          {"name": "Female", "value": 2},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Male; Gender non-conforming", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; Native American, Pacific Islander, or Indigenous Australian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Netherlands","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 530},
+          {"name": "Female", "value": 22},
+          {"name": "Other", "value": 1},
+          {"name": "Transgender", "value":1},
+          {"name": "Gender non-conforming", "value":3}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "East Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+
+      ]
+    },
+    {
+      "name": "Ukraine","value": "Stack Overflow",
+      "children": [
+      { "name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 189},
+          {"name": "Male; Other", "value": 2},
+          {"name": "Female", "value": 13},
+          {"name": "Male; Gender non-conforming","value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "Middle Eastern; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Sri Lanka","value": "Stack Overflow",
+      "children": [
+      { "name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 75},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Female", "value": 11}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "Middle Eastern; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "South Asian; East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Malaysia","value": "Stack Overflow",
+      "children": [
+      { "name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 30},
+          {"name": "Female", "value": 4}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 31},
+          {"name": "Female", "value":6}
+        ]
+      },
+      {"name": "Middle Eastern; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 4}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5},
+          {"name": "Female","value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }      
+      ]
+    },
+    {
+      "name": "Finland","value": "Stack Overflow",
+      "children": [
+      { "name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 174},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Other", "value": 1},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 10},
+          {"name": "Transgender", "value": 1},
+          {"name": "Gender non-conforming", "value":2}
+        ]
+      },
+      {"name": "Black or of African descent; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2},
+          {"name": "Other", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }      
+      ]
+    },
+    {
+      "name": "Canada","value": "Stack Overflow",
+      "children": [
+      { "name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 49},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1098},
+          {"name": "Male; Other", "value": 4},
+          {"name": "Other", "value": 3},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 96},
+          {"name": "Transgender", "value": 1},
+          {"name": "Transgender; Gender non-conforming", "value": 1},
+          {"name": "Male; Transgender", "value": 2},
+          {"name": "Gender non-conforming", "value":7}
+        ]
+      },
+      {"name": "Black or of African descent; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 8}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 17},
+          {"name": "Female", "value": 2}        
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 16},
+          {"name": "Female", "value": 4}        
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 15},
+          {"name": "Female", "value": 2}          
+        ]
+      },
+      
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 21},
+          {"name": "Female", "value": 4} 
+        ]
+      },
+      {"name": "Black or of African descent; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 11},
+          {"name": "Female", "value": 3} 
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 9},
+          {"name": "Female", "value": 2} 
+        ]
+      }, 
+      {"name": "Black or of African descent; Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1} 
+        ]
+      }      
+      ]
+    },
+    {
+      "name": "India","value": "Stack Overflow",
+      "children": [
+      { "name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1365},
+          {"name": "Female", "value": 111},
+          {"name": "Other", "value": 2},
+          {"name": "Male; Other", "value": 4}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 142},
+          {"name": "Female", "value": 19}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 17}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 18},
+          {"name": "Female", "value": 3},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5},
+          {"name": "Female", "value": 1}        
+        ]
+      },
+      {"name": "East Asian; South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}      
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}         
+        ]
+      },
+      
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2},
+          {"name": "Female", "value": 1} 
+        ]
+      },
+      {"name": "East Asian; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "Black or of African descent; East Asian; Hispanic or Latino/Latina; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1} 
+        ]
+      }, 
+      {"name": "Black or of African descent; East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1} 
+        ]
+      }      
+      ]
+    },
+    {
+      "name": "Austria","value": "Stack Overflow",
+      "children": [
+      { "name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 282},
+          {"name": "Male; Other", "value": 7},
+          {"name": "Other", "value": 1},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 21}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2},
+          {"name": "Other", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 3}
+        ]
+      }      
+      ]
+    },
+    {
+      "name": "Mexico","value": "Stack Overflow",
+      "children": [
+      { "name": "Hispanic or Latino/Latina; Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 10},
+          {"name": "Transgender", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 186},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Other", "value": 2},
+          {"name": "Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6},
+          {"name": "Other", "value": 1}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; East Asian; Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Mexico","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 73},
+          {"name": "Female", "value": 3},
+          {"name": "Transgender", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 186},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1},
+          {"name": "Transgender", "value": 14}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Turkey","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 73},
+          {"name": "Female", "value": 3},
+          {"name": "Transgender", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 186},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1},
+          {"name": "Transgender", "value": 14}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Bulgaria","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 145},
+          {"name": "Female", "value": 19},
+          {"name": "Male; Gender non-conforming", "value": 2},
+          {"name": "Female; Gender non-conforming", "value": 4}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Spain","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 338},
+          {"name": "Female", "value": 29},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Other", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 84},
+         {"name": "Female", "value": 9}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 53},
+          {"name": "Female", "value": 9},
+          {"name": "Male; Gender non-conforming", "value": 2}
+        ]
+      },
+      {"name": "Black or of African descent; Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },      
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Uruguay","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 17},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 23},
+         {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7}
+        ]
+      },
+      {"name": "Black or of African descent; Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Denmark","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 179},
+          {"name": "Female", "value": 7},
+          {"name": "Female; Transgender", "value": 2},
+          {"name": "Male; Other", "value": 4},
+          {"name": "Other", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7}
+        ]
+      },
+      {"name": "East Asian; Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Estonia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 60},
+          {"name": "Female", "value": 3},
+          {"name": "Female; Transgender", "value": 2},
+          {"name": "Male; Other", "value": 4}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Lithuania","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 114},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "Greece","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 188},
+          {"name": "Female", "value": 8},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Other", "value": 3},
+          {"name": "Make; Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+      {
+      "name": "Russian Federation","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 469},
+          {"name": "Female", "value": 29},
+          {"name": "Male; Other", "value": 4},
+          {"name": "Other", "value": 3},
+          {"name": "Make; Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "East Asian; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+      {
+      "name": "Sweden","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 369},
+          {"name": "Female", "value": 14},
+          {"name": "Male; Other", "value": 2},
+          {"name": "Other", "value": 2},
+          {"name": "Male; Gender non-conforming", "value": 3},
+          {"name": "Female; Gender non-conforming", "value": 1},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 4}
+          
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Romania","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 320},
+          {"name": "Female", "value": 25},
+          {"name": "Male; Other", "value": 4},
+          {"name": "Other", "value": 4}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 10},
+          {"name": "Male; Other", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+          
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Serbia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 122},
+          {"name": "Female", "value": 15},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Other", "value":14}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Slovenia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 202},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Costa Rica","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 31},
+          {"name": "Other", "value":1},
+          {"name": "Female; Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 3}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Iran","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 213},
+          {"name": "Female", "value": 11},
+          {"name": "Transgender; Other", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6},
+          {"name": "Female", "value":1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Dominican Republic","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 34},
+          {"name": "Female", "value": 2},
+          {"name": "Transgender; Other", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6},
+          {"name": "Female", "value":1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Chile","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 54},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 9}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; Native American, Pacific Islander, or Indigenous Australian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "El Salvador","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 13}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Belarus","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 43},
+          {"name": "Female", "value": 3},
+          {"name": "Male; Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Portugal","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 141},
+          {"name": "Female", "value": 7},
+          {"name": "Other", "value": 2},
+          {"name": "Male; Other", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7}
+        ]
+      },
+      {"name": "Black or of African descent; Middle Eastern; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female; Gender non-conforming", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Albania","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 24},
+          {"name": "Female", "value": 3},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "South Africa","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 172},
+          {"name": "Female", "value": 16},
+          {"name": "Transgender", "value": 1},
+          {"name": "Other", "value": 2},
+          {"name": "Gender non-conforming", "value": 1},
+          {"name": "Male; Other", "value": 1}
+
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 36},
+          {"name": "Female", "value": 3},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Switzerland",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 340},
+          {"name": "Female", "value": 13},
+          {"name": "Male; Other", "value": 2},
+          {"name": "Other", "value": 5},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Other", "value": 2},
+          {"name": "Male", "value": 5}
+          
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+     {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+      ]
+    },
+{
+      "name": "New Zealand","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 127},
+          {"name": "Female", "value": 14},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 8},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Other", "value": 2},
+          {"name": "Male", "value": 5}
+          
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+     {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+         {"name": "East Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Norway","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 205},
+          {"name": "Female", "value": 19},
+          {"name": "Other", "value": 3},
+          {"name": "Male; Other", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      
+       {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+     {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Ireland","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 205},
+          {"name": "Female", "value": 19},
+          {"name": "Other", "value": 3},
+          {"name": "Male; Other", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      
+       {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+     {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Nepal","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 54}
+        ]
+      },
+      
+       {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 11},
+          {"name": "Female", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Pakistan","value": "Stack Overflow",
+      "children": [
+      { "name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 32},
+          {"name": "Female", "value": 4}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 133},
+          {"name": "Female", "value": 9}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 62},
+          {"name": "Female", "value": 5},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Male; Other", "value": 2}
+        ]
+      },
+      {"name": "East Asian; Middle Eastern; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "East Asian; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Slovak Republic","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent",
+        "children":
+        [
+          {"name": "Male", "value": 100},
+          {"name": "Female", "value": 6},
+          {"name": "Other", "value": 2},
+          {"name": "Male; Other", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+      ]
+    },
+{
+      "name": "Belgium","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 262},
+          {"name": "Female", "value": 9},
+          {"name": "Male; Other", "value": 2}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      
+       {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+     {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Egypt","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 262},
+          {"name": "Female", "value": 9},
+          {"name": "Male; Other", "value": 2}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      
+       {"name":  "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+     {"name": "Black or of African descent; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Egypt","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 262},
+          {"name": "Female", "value": 9},
+          {"name": "Male; Other", "value": 2}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      
+       {"name":  "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+     {"name": "Black or of African descent; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Czech Republic","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+        
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      
+       {"name":  "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 259},
+          {"name": "Male; Other", "value": 2},
+          {"name": "Female", "value": 8},
+          {"name": "Female; Transgender", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Australia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 482},
+          {"name": "Female", "value": 21},
+          {"name": "Transgender", "value": 2},
+          {"name": "Female; Transgender", "value": 3},
+          {"name": "Male; Other", "value": 9}
+        ]
+        
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 7},
+          {"name": "Male", "value": 36}
+        ]
+      },
+      
+       {"name":  "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 29},
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Japan","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 51},
+          {"name": "Female", "value": 3},
+          {"name": "Transgender", "value": 1}
+        ]
+        
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 3},
+          {"name": "Male", "value": 50}
+        ]
+      },
+      
+       {"name":  "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 9}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "South Korea","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1},
+          {"name": "Female", "value": 1}
+        ]
+        
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 4},
+          {"name": "Male", "value": 57}
+        ]
+      },
+      
+       {"name":  "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 9}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+
+{
+      "name": "Tunisia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4},
+          {"name": "Female", "value": 1}
+        ]
+        
+      },
+      {"name":  "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 8}
+        ]
+      }
+    ]
+    },
+
+{
+      "name": "Rwanda","value": "Stack Overflow",
+      "children": [
+
+      {"name":  "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Transgender", "value": 1},
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Somalia","value": "Stack Overflow",
+      "children": [
+
+      {"name":  "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Saudi Arabia","value": "Stack Overflow",
+      "children": [
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+        
+      },
+      {"name":  "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name":  "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Transgender", "value": 1},
+          {"name": "Male", "value": 14}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Hungary","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+        
+      },
+      {"name":  "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 219},
+          {"name": "Female", "value": 12},
+          {"name": "Transgender", "value": 1},
+          {"name": "Male; Transgender", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Bosnia-Herzegovina","value": "Stack Overflow",
+      "children": [
+
+      {"name":  "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Other", "value": 1},
+          {"name": "Female", "value": 2},
+          {"name": "Male", "value": 40}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Cuba","value": "Stack Overflow",
+      "children": [
+      {"name":  "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+        
+      },
+      {"name":  "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 219},
+          {"name": "Female", "value": 12},
+          {"name": "Transgender", "value": 1},
+          {"name": "Male; Transgender", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Ecuador","value": "Stack Overflow",
+      "children": [
+      {"name":  "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 13}
+        ]
+        
+      },
+
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Peru","value": "Stack Overflow",
+      "children": [
+      {"name":  "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 36},
+          {"name": "Female", "value": 2}
+
+        ]
+        
+      },
+
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Nigeria","value": "Stack Overflow",
+      "children": [
+      {"name":  "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 84},
+          {"name": "Female", "value": 7}
+        ]
+      },
+      {"name": "Black or of African descent; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Guatemala","value": "Stack Overflow",
+      "children": [
+      {"name":  "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 84},
+          {"name": "Female", "value": 7}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Armenia","value": "Stack Overflow",
+      "children": [
+      {"name":  "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 14},
+          {"name": "Female", "value": 7}
+        ]
+      },
+      {"name":"Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Lebanon","value": "Stack Overflow",
+      "children": [
+
+      {"name":"Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 26},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 3}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Bermuda","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "China","value": "Stack Overflow",
+      "children": [
+      {"name":  "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 93},
+          {"name": "Female", "value": 3}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 19}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1},
+          {"name": "Female", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Singapore","value": "Stack Overflow",
+      "children": [
+      {"name":  "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 24},
+          {"name": "Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 18}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 27},
+          {"name": "Female", "value": 4}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Georgia","value": "Stack Overflow",
+      "children": [
+
+      {"name":"Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 26}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Thailand","value": "Stack Overflow",
+      "children": [
+      {"name":  "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 21},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 14}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5},
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Puerto Rico","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina",
+        "children":
+        [
+          {"name": "Male", "value": 5},
+          {"name": "Female", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Philippines","value": "Stack Overflow",
+      "children": [
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 51},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Female", "value": 8},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 38},
+          {"name": "Male; Gender non-conforming", "value": 1},
+          {"name": "Female", "value": 8}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 14},
+          {"name": "Female", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Indonesia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 51},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Female", "value": 8},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 36},
+          {"name": "Female", "value": 4}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 41},
+          {"name": "Female", "value": 3}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      }
+
+    ]
+    },
+{
+      "name": "Cape Verde","value": "Stack Overflow",
+      "children": [
+
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Hong Kong","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 45},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Female", "value": 6},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 9}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+
+    ]
+    },
+{
+      "name": "Vietnam","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 45},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Female", "value": 6},
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      },
+
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 9}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 10}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 15},
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+
+    ]
+    },
+{
+      "name": "Taiwan","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 38},
+          {"name": "Female", "value": 2}
+
+        ]
+      },
+
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+
+    ]
+    },
+{
+      "name": "Mongolia","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian",
+        "children":
+        [
+          {"name": "Male", "value": 8}
+
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+
+    ]
+    },
+{
+      "name": "Bangladesh","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian",
+        "children":
+        [
+          {"name": "Male", "value": 38},
+          {"name": "Female", "value": 2}
+
+        ]
+      },
+
+      {"name": "South Asian; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+
+    ]
+    },
+{
+      "name": "Latvia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 61},
+          {"name": "Male; Other", "value": 1},
+          {"name": "Female", "value": 2}
+
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }
+
+    ]
+    },
+{
+      "name": "Liechtenstein","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Luxembourg","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent",
+        "children":
+        [
+          {"name": "Male", "value": 23}
+
+        ]
+      },
+      {"name": "Black or of African descent; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+
+    ]
+    },
+{
+      "name": "Moldavia",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 43},
+          {"name": "Other", "value": 1},
+          {"name": "Female", "value": 1}
+
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Kenya","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 47},
+          {"name": "Other", "value": 1},
+          {"name": "Female", "value": 3}
+
+        ]
+      },
+      {"name":  "White or of Europe descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Macedonia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 32},
+          {"name": "Female", "value": 3}
+
+        ]
+      },
+      {"name":  "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1},
+          {"name": "Female", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "United Arab Emirates","value": "Stack Overflow",
+      "children": [
+      {"name":  "East Asian",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Other", "value": 1},
+          {"name": "Male", "value": 11}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 18}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 11}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Ghana","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 21},
+          {"name": "Female", "value": 2}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Aland Islands","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Malta","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 19}
+
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Trinidad and Tobago","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 5}
+
+        ]
+      },
+      {"name": "Black or of African descent; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Zambia","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Iceland","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 16},
+          {"name": "Female", "value": 4},
+          {"name": "Male; Other", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Zimbabwe","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 8}
+
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Venezuela","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent;Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 29}
+
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 5}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Paraguay","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina; Native American, Pacific Islander, or Indigenous Australian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2},
+          {"name": "Female", "value": 1}
+
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 11}
+
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Panama","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 8}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Nicaragua","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Bolivia","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina",
+        "children":
+        [
+          {"name": "Male", "value": 10}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Myanmar","value": "Stack Overflow",
+      "children": [
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 6},
+          {"name": "Female", "value":1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 4},
+          {"name": "Female", "value":1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Cayman Islands","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name":  "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Azerbaidjan","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Other", "value": 1},
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Other", "value": 1},
+          {"name": "Male", "value": 4}
+        ]
+      },
+      {"name":  "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Ethiopia","value": "Stack Overflow",
+      "children": [
+      {"name":  "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 14}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Jordan","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 23}
+        ]
+      },
+      {"name":   "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Honduras","value": "Stack Overflow",
+      "children": [
+      {"name":  "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 3}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Andorra","value": "Stack Overflow",
+      "children": [
+      {"name":  "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Madagascar","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name":   "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Cameroon","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7}
+        ]
+      }    ]
+    },
+{
+      "name": "Tanzania","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 8}
+        ]
+      },
+      {"name":   "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Botswana","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      }    ]
+    },
+{
+      "name": "Mozambique","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "South Asian",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Qatar","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 2}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Mauritius","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Other", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Kazakhstan","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 5}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Uganda","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 11}
+        ]
+      }    
+    ]
+    },
+{
+      "name": "Oman","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Montenegro","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 7},
+          {"name": "Female", "value": 1},
+          {"name": "Male; Other", "value": 1}
+        ]
+      }    
+    ]
+    },
+
+{
+      "name": "Cyprus","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2},
+          {"name": "Female", "value": 11}
+        ]
+      },
+      {"name": "Black or of African descent; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Kuwait","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2},
+          {"name": "Female", "value": 11}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+
+        ]
+      }
+    ]
+    },
+{
+      "name": "Algeria","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2},
+          {"name": "Female", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Namibia","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Syria","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 6}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Lesotho",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Afghanistan","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Female", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Guyana","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Malawi","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Laos","value": "Stack Overflow",
+      "children": [
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "East Asian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Gabon","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Antarctica","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Iraq","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 3}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Senegal","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Kyrgyzstan","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 2}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Zaire","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Fiji","value": "Stack Overflow",
+      "children": [
+      {"name": "Native American, Pacific Islander, or Indigenous Australian; South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Other", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Cambodia","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Haiti","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Bahrain","value": "Stack Overflow",
+      "children": [
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 3}
+        ]
+      },
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Seychelles","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Guinea","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Benin","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Angola","value": "Stack Overflow",
+      "children": [
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Niger","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Guam","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Female", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Belize","value": "Stack Overflow",
+      "children": [
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Female", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Togo","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "Hispanic or Latino/Latina","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Female", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Barbados","value": "Stack Overflow",
+      "children": [
+      {"name": "South Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Sudan","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent; Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1},
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Uzbekistan","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 2}
+        ]
+      },
+      {"name": "East Asian","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Female", "value": 1}
+        ]
+      },
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Middle Eastern; White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+          
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Libya","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Swaziland","value": "Stack Overflow",
+      "children": [
+      {"name": "White or of European descent","value": "Stack Overflow",
+        "children":
+        [
+
+          {"name": "Male", "value": 1}
+        ]
+      },
+      {"name": "Black or of African descent","value": "Stack Overflow",
+        "children":
+        [
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Yemen","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 2}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Macau","value": "Stack Overflow",
+      "children": [
+      {"name":  "Black or of African descent; White or of European descent","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Gender non-conforming", "value": 1}
+        ]
+      }
+    ]
+    },
+{
+      "name": "Tadjikistan","value": "Stack Overflow",
+      "children": [
+      {"name": "Middle Eastern","value": "Stack Overflow",
+        "children":
+        [ 
+          {"name": "Male", "value": 1}
+        ]
+      }
+    ]
+    }
+  ]
+}
